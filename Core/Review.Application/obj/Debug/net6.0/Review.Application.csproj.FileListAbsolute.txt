@@ -1,0 +1,15 @@
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\bin\Debug\net6.0\Review.Application.deps.json
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\bin\Debug\net6.0\Review.Application.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\bin\Debug\net6.0\Review.Application.pdb
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\bin\Debug\net6.0\Review.Domain.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\bin\Debug\net6.0\Review.Domain.pdb
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.csproj.AssemblyReference.cache
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.AssemblyInfoInputs.cache
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.AssemblyInfo.cs
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.csproj.CoreCompileInputs.cache
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.csproj.CopyComplete
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\refint\Review.Application.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\Review.Application.pdb
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Application\obj\Debug\net6.0\ref\Review.Application.dll

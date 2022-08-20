@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rvBm/lfsLUYs4UHTDMa3fIIL3sZfRFyNtCK5PcA/Pkg=",
+  "Source": "ProductReview.Api",
+  "BasePath": "_content/ProductReview.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

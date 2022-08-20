@@ -1,0 +1,12 @@
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\bin\Debug\net6.0\Review.Domain.deps.json
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\bin\Debug\net6.0\Review.Domain.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\bin\Debug\net6.0\Review.Domain.pdb
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.csproj.AssemblyReference.cache
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.AssemblyInfoInputs.cache
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.AssemblyInfo.cs
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.csproj.CoreCompileInputs.cache
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\refint\Review.Domain.dll
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\Review.Domain.pdb
+C:\Users\duygu\source\repos\ProductReview\Core\Review.Domain\obj\Debug\net6.0\ref\Review.Domain.dll

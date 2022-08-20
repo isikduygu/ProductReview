@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0KgS9pRzY8M0mr+Vby036GYStrgAYq34GkUDhu+HrUMdZr1tN4q9a0ag4aaDFYRjZsCUo8MsjZWc4WQKMyqHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duygu\\source\\repos\\ProductReview\\Core\\Review.Domain\\Review.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duygu\\.nuget\\packages\\mongodb.bson\\2.17.1\\mongodb.bson.2.17.1.nupkg.sha512",
+    "C:\\Users\\duygu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

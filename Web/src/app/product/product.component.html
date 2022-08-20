@@ -1,0 +1,117 @@
+<div class="d-flex justify-content-center container mt-5">
+  <div class="card p-3 bg-white">
+    <button class="btn btn-light" (click)="open(content)">
+      Review Product
+    </button>
+    <div class="about-product text-center mt-2">
+      <img
+        src="https://img.freepik.com/free-vector/writting-pencil-design_1095-187.jpg"
+        width="200"
+      />
+      <div>
+        <h4>Pencil</h4>
+        <h6 class="mt-0 text-black-50">Drawing</h6>
+      </div>
+    </div>
+    <div class="d-flex justify-content-between total font-weight-bold mt-4">
+      <span>Price</span><span>$10.00</span>
+    </div>
+    <div class="d-flex justify-content-end pt-2">
+      <button class="btn btn-danger w-50">Buy</button>
+    </div>
+  </div>
+</div>
+
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">
+      How did you find the product?
+    </h4>
+    <button
+      type="button"
+      class="btn-close"
+      aria-label="Close"
+      (click)="modal.dismiss('Cross click')"
+    ></button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="reviewForm">
+      <div class="mb-3">
+        <ng-template #t let-fill="fill">
+          <span class="star" [class.full]="fill === 100">
+            <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+          </span>
+        </ng-template>
+        <ngb-rating
+          [(rate)]="currentRate"
+          [starTemplate]="t"
+          [max]="5"
+        ></ngb-rating>
+        <div class="form-group">
+          <label for="exampleInputEmail1">Name</label>
+          <input
+            type="text"
+            class="form-control"
+            id="name"
+            name="name"
+            formControlName="name"
+            [ngClass]="{ 'is-invalid': f['name'].errors  && submitted }"
+          />
+          <div *ngIf=" f['name'].errors  && submitted" class="invalid-feedback">
+            <div>Name is required</div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="exampleInputEmail1">Lastname</label>
+          <input
+            type="text"
+            class="form-control"
+            id="lastname"
+            name="lastname"
+            formControlName="lastname"
+            [ngClass]="{ 'is-invalid':  f['lastname'].errors  && submitted }"
+          />
+          <div *ngIf="f['lastname'].errors && submitted" class="invalid-feedback">
+            <div>Lastname is required</div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="comment">Comment</label>
+          <textarea
+            class="form-control"
+            placeholder="Your comment"
+            formControlName="comment"
+            id="comment"
+          ></textarea>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button
+      type="button"
+      class="btn btn-outline-dark"
+      (click)="send(currentRate, modal)"
+    >
+      Send
+    </button>
+  </div>
+</ng-template>
+
+    <div *ngFor="let review of getAllReview" class="d-flex justify-content-center mt-4">
+      <div class="box">
+        <img
+          src="https://www.citypng.com/public/uploads/small/11639594360nclmllzpmer2dvmrgsojcin90qmnuloytwrcohikyurvuyfzvhxeeaveigoiajks5w2nytyfpix678beyh4ykhgvmhkv3r3yj5hi.png"
+          width="40"
+        />
+        <ngb-rating
+          [(rate)]="review.rate"
+          [readonly]="true"
+          [max]="5"
+        ></ngb-rating>
+        <h5>{{ review.name }}</h5>
+        <p>{{ review.comment }}</p>
+      </div>
+    </div>

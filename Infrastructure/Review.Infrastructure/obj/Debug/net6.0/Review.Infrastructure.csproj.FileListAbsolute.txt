@@ -1,0 +1,17 @@
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Infrastructure.deps.json
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Infrastructure.dll
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Infrastructure.pdb
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Application.dll
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Domain.dll
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Application.pdb
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\bin\Debug\net6.0\Review.Domain.pdb
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.AssemblyInfo.cs
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.csproj.CopyComplete
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.dll
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\refint\Review.Infrastructure.dll
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\Review.Infrastructure.pdb
+C:\Users\duygu\source\repos\ProductReview\Infrastructure\Review.Infrastructure\obj\Debug\net6.0\ref\Review.Infrastructure.dll
