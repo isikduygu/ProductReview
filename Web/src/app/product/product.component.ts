@@ -56,8 +56,8 @@ export class ProductComponent implements OnInit {
   getAllReview : IReview [] = [];
 
   reviewForm= new FormGroup({
-    name:new FormControl("", [Validators.required]),
-    lastname: new FormControl("", [Validators.required]),
+    name:new FormControl(""),
+    lastname: new FormControl(""),
     comment: new FormControl(""),
     rate: new FormControl(0),
   });
@@ -83,7 +83,6 @@ export class ProductComponent implements OnInit {
     }
   }
   send(currentRate : number, modal: NgbActiveModal){
-    this.submitted = true;
     this.Review.name = this.reviewForm.value.name as string,
     this.Review.lastname = this.reviewForm.value.lastname as string,
     this.Review.comment = this.reviewForm.value.comment as string;
