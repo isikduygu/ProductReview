@@ -2,4 +2,4 @@
 
  Product Review project Asp.net Web Api with MongoDB database and Client side Angular
 
-![alt text](https://github.com/isikduygu/ProductReview/blob03808f7ed454f6a225cd245b46e634949710d1e6/reviewProduct.png?raw=true)
+![alt text](https://github.com/isikduygu/ProductReview/blob/1dd9bae9f2408c8beff234b04d44c2c21fc57497/reviewProduct.png)
